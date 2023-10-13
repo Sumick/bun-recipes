@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Baozi",
+    "slug": "baozi",
+    "country": "China",
+    "description": "Steamed buns filled with a variety of savory or sweet fillings.",
+    "imageSrc": "https://fileserviceuploadsperm.blob.core.windows.net/files/file-q28TRtNvNDllHHMbOfaZ6w3b?se=2023-10-12T17%3A05%3A11Z&sp=r&sv=2021-08-06&sr=b&rscd=attachment%3B%20filename%3Ddc70a9bd-a3cd-4f8a-ae2a-bd24a16412a6.webp&sig=RvcEDs1Lnodajk5ybsWt1CZcTF6BOi/NzKFHbWHzzWI%3D",
+    "ingredients": [
+      "flour",
+      "yeast",
+      "water",
+      "filling of choice (e.g., pork, vegetables, red bean paste)"
+    ],
+    "instructions": [
+      "Mix the flour, yeast, and water to form a dough.",
+      "Allow dough to rise for about 2 hours.",
+      "Divide dough into small portions.",
+      "Fill each portion with your choice of filling.",
+      "Place buns in a steamer and steam for about 15 minutes."
+    ]
+  },
+  {
+    "name": "Pretzel Bun",
+    "slug": "pretzel-bun",
+    "country": "Germany",
+    "description": "Soft, chewy buns with a distinctive pretzel flavor and a shiny, dark outer crust.",
+    "imageSrc": "https://fileserviceuploadsperm.blob.core.windows.net/files/file-8PgKCoKBU0JLCNcukjbl2NYF?se=2023-10-12T17%3A05%3A11Z&sp=r&sv=2021-08-06&sr=b&rscd=attachment%3B%20filename%3Da74cb54a-4d8f-4958-a809-69a15a5c1da0.webp&sig=hBBshcPjHCSCLTOv4EsJXYBeu1ibqwSRcIO0JQ%2BM2Fo%3D",
+    "ingredients": [
+      "flour",
+      "yeast",
+      "water",
+      "baking soda",
+      "salt",
+      "sugar"
+    ],
+    "instructions": [
+      "Combine ingredients to form a dough.",
+      "Let dough rise for 1 hour.",
+      "Divide into small portions and shape into buns.",
+      "Boil buns briefly in a baking soda water bath.",
+      "Bake at 375°F (190°C) for 15-20 minutes or until golden brown."
+    ]
+  },
+  {
+    "name": "Baguette",
+    "slug": "baguette",
+    "country": "France",
+    "description": "Long, thin buns with a crisp crust and soft, chewy interior.",
+    "imageSrc": "https://fileserviceuploadsperm.blob.core.windows.net/files/file-jJcZd4hc9O2k73FuLQ7Ie3Hj?se=2023-10-12T17%3A05%3A11Z&sp=r&sv=2021-08-06&sr=b&rscd=attachment%3B%20filename%3D33393cb8-ce29-4991-94cc-b7c5b813161b.webp&sig=IDFj7EfxvkUdWvAgsEErB/bVQpIf%2BkvIOY70pxYp56c%3D",
+    "ingredients": [
+      "flour",
+      "yeast",
+      "water",
+      "salt"
+    ],
+    "instructions": [
+      "Combine the flour, yeast, water, and salt to form a dough.",
+      "Allow dough to rise for about 2 hours.",
+      "Divide dough into portions and shape each into a long, thin loaf.",
+      "Preheat oven to 475°F (245°C).",
+      "Bake for about 20-25 minutes or until golden brown."
+    ]
+  },
+  {
+    "name": "Challah",
+    "slug": "challah",
+    "country": "Jewish",
+    "description": "Rich, sweet buns made with eggs and often braided before baking.",
+    "imageSrc": "https://fileserviceuploadsperm.blob.core.windows.net/files/file-dKThsyMoODiJuExIVQLdQY4k?se=2023-10-12T17%3A05%3A11Z&sp=r&sv=2021-08-06&sr=b&rscd=attachment%3B%20filename%3D3e53cf55-1d67-49cc-84bb-76720550a80a.webp&sig=Cy%2Bb2tt2PxK/A2/YbtSnb7egIZUTCby6HGrXcuws7WY%3D",
+    "ingredients": [
+      "flour",
+      "yeast",
+      "water",
+      "eggs",
+      "sugar",
+      "salt",
+      "oil"
+    ],
+    "instructions": [
+      "Combine the ingredients to form a dough.",
+      "Allow dough to rise for about 2 hours.",
+      "Divide dough into portions and braid to form buns.",
+      "Preheat oven to 375°F (190°C).",
+      "Bake for about 20-25 minutes or until golden brown."
+    ]
+  }
+]
