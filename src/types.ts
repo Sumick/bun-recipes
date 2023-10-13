@@ -12,4 +12,9 @@ export interface Recipe {
   instructions: Instruction[];
 }
 
+export interface RecipePreview {
+  name: string;
+  imageSrc: string;
+}
+
 export type RecipeList = Recipe[];
